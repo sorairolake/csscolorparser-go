@@ -49,3 +49,4 @@ fmt.Println(c.RGBString()) // rgb(255,215,0)
 
 * [csscolorparser](https://github.com/mazznoer/csscolorparser-rs) (Rust)
 * [csscolorparser](https://github.com/deanm/css-color-parser-js) (Javascript)
+* [csscolorparser-zig](https://github.com/sorairolake/csscolorparser-zig) (Zig)
